@@ -535,6 +535,29 @@ header .wrap {
     font-size: 13px;
 }
 
+/* ===== Endereço para retirada ===== */
+.retirada {
+    display: none;
+    margin: 12px 24px 0;
+    padding: 12px 14px;
+    background-color: var(--card2);
+    border: 1px solid var(--borda);
+    border-radius: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.retirada span {
+    display: block;
+    color: var(--mut);
+}
+
+.retirada a {
+    color: var(--laranja);
+    font-weight: 600;
+    font-size: 13px;
+}
+
 
 
 

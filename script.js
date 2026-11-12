@@ -1,4 +1,4 @@
-console.log("Java Scripit da Vianda Funcionando!");
+
 
 const sacola = [];
 const TAXA_ENTREGA = 5;
@@ -99,6 +99,13 @@ botoesTipo.forEach(function(botao){
     } else {
         document.querySelector("#endereco").style.display = "none";
     }
+    // Mostra o endereço da loja só na retirada
+    if (tipo === "retirada") {
+        document.querySelector("#infoRetirada").style.display = "block";
+    } else {
+        document.querySelector("#infoRetirada").style.display = "none";
+    }
+
     mostrarSacola();
   });
 })
