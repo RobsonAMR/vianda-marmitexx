@@ -1,10 +1,10 @@
-# 🍱 Vianda Marmitex
+# Vianda Marmitex
 
-Site de cardápio e pedidos do restaurante **Vianda Marmitex** — comida caseira feita na hora, em Vicente Pires (DF).
+Cardápio digital do restaurante Vianda Marmitex, em Vicente Pires (DF), desenvolvido com HTML, CSS e JavaScript.
 
-O cliente navega pelo cardápio, monta a sacola, escolhe entre **entrega** ou **retirada** e envia o pedido pronto, com total calculado, direto para o **WhatsApp** do restaurante.
+O cliente pode buscar marmitas e bebidas, montar a sacola e escolher entre entrega e retirada. O site calcula o total e abre o WhatsApp com o pedido preenchido para revisão e envio.
 
-Feito apenas com **HTML, CSS e JavaScript puro** — sem frameworks, sem build e sem backend.
+**[Acessar o cardápio online](https://robsonamr.github.io/vianda-marmitexx/)**
 
 ---
 
@@ -154,7 +154,7 @@ As cores ficam em variáveis no topo do `style.css`:
 - CSS3 (variáveis, Grid, Flexbox, media queries)
 - JavaScript (vanilla, sem bibliotecas)
 - [Font Awesome 6](https://fontawesome.com/) via CDN
-- API de links do WhatsApp (`wa.me`)
+- Link do WhatsApp (`wa.me`) com mensagem pré-preenchida
 
 ---
 
