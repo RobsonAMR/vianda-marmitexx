@@ -6,6 +6,8 @@ O cliente pode buscar marmitas e bebidas, montar a sacola e escolher entre entre
 
 **[Acessar o cardápio online](https://robsonamr.github.io/vianda-marmitexx/)**
 
+<img src="./vianda-sacola-mobile.png" alt="Sacola do Vianda Marmitex no celular com itens e total do pedido" width="390">
+
 ---
 
 ## ✨ Funcionalidades
